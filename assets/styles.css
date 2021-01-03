@@ -89,7 +89,7 @@ header div h3 {
     padding: 50px;
 }
 
-/*  */
+/* Footer */
 
 .footer {
     text-align: center;
@@ -97,4 +97,22 @@ header div h3 {
     color: #ebebeb;
     background-color: #292929;
     height: 20px;
+}
+
+/* Links */
+
+a:link {
+    color: steelblue;
+}
+
+a:active {
+    color: blue;
+}
+
+a:hover {
+    color:rebeccapurple;
+}
+
+a:visited {
+    color: slategrey;
 }
