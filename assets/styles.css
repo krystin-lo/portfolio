@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    /* padding: 0; */
+}
+
+body {
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;;
+}
+
+.header {
+    text-align: center;
+    background-color: #292929;
+    height: 60px;
+    padding: 30px;
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Name color */
+
+header div h1 {
+    color: lightsteelblue;
+    text-align: center;
+}
+
+/* Occupation */
+
+header div h3 {
+    color: white;
+    margin: 10px;
+}
+
+/* My Image */
+
+.image {
+    margin: 40px;
+    border: 20px solid #292929;
+    border-radius: 10px;
+}
+
+/* horizontal ruler */
+
+.line {
+    background-color: #292929;
+    height: 10px;
+}
+
+/* Designer Background  */
+
+.intro div {
+    background-image: url("images/background.jpg");
+    text-align: center
+}
+
+/* Background color */
+
+.intro {
+    background-color: #ebebeb;
+}
+
+/* Titles */
+
+.intro h2 {
+    text-align: center;
+    color:lightsteelblue;
+    padding: 10px;
+    background-color: #292929;
+}
+
+/* Paragraphs */
+
+.intro p {
+    font-size: 18px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+
+/* Listing */
+
+.intro ul, ol {
+    margin-left: 50px;
+    padding: 20px;
+}
+
+/* Google map */
+
+.map {
+    text-align: center;
+    padding: 50px;
+}
+
+/*  */
+
+.footer {
+    text-align: center;
+    padding: 30px;
+    color: #ebebeb;
+    background-color: #292929;
+    height: 20px;
+}
