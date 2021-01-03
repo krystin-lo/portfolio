@@ -70,15 +70,15 @@ header div h3 {
 
 .intro p {
     font-size: 18px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding: 20px;
 }
 
 /* Listing */
 
 .intro ul, ol {
-    margin-left: 50px;
+    margin-left: 220px;
     padding: 20px;
 }
 
